@@ -1,0 +1,10 @@
+commons-logging.jar
+javax.persistence_2.0.0.jar
+log4j-1.2.15.jar
+org.springframework.asm-3.1.0.RELEASE.jar
+org.springframework.beans-3.1.0.RELEASE.jar
+org.springframework.context-3.1.0.RELEASE.jar
+org.springframework.context.support-3.1.0.RELEASE.jar
+org.springframework.core-3.1.0.RELEASE.jar
+org.springframework.expression-3.1.0.RELEASE.jar
+readme.liblist.txt
