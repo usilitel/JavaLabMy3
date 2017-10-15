@@ -9,6 +9,7 @@ public class UsualPerson implements Person {
     @Column
     private int id;
 
+
     @Column
     private String name;
 
