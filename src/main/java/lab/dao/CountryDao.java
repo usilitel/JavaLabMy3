@@ -36,7 +36,6 @@ public class CountryDao extends JdbcDaoSupport {
 
 	@SneakyThrows
 	public List<Country> getCountryList() {
-		// TODO: implement it
 		//return null;
 		return getCountries();
 	}
