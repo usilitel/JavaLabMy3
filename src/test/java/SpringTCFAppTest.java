@@ -21,7 +21,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 //@RunWith(SpringJUnit4ClassRunner.class)
 @ExtendWith(SpringExtension.class)
-@ContextConfiguration("classpath:application-context.xml")
+@ContextConfiguration("classpath:application-context_ioc.xml")
 public class SpringTCFAppTest {
 	
 	@Autowired

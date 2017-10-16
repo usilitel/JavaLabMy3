@@ -15,7 +15,7 @@ import java.util.ArrayList;
 
 public class SimpleAppTest {
 	
-	protected static final String APPLICATION_CONTEXT_XML_FILE_NAME = "classpath:application-context.xml";
+	protected static final String APPLICATION_CONTEXT_XML_FILE_NAME = "classpath:application-context_ioc.xml";
 
 	private AbstractApplicationContext context;
 
